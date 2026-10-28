@@ -15,6 +15,8 @@
 
 Material Night Eighties and Material Night meet in one theme: the deep charcoal-gray of the classic palette after dark, and its light companion in soft white, with teal and violet notes.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![Material · Prism in Tine dark mode](docs/material-dark.png)

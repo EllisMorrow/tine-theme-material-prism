@@ -8,6 +8,8 @@
 
 Material Night Eighties 与 Material Night 相映于一套主题：夜里是经典的深炭灰色，白日则回到柔和明亮的浅色，并以青绿与紫色点染。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![Material · Prism 深色模式实拍](docs/material-dark.png)
